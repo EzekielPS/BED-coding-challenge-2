@@ -1,0 +1,25 @@
+{
+  "name": "event-registration-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "ts-node src/server.ts",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EzekielPS/BED-coding-challenge-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EzekielPS/BED-coding-challenge-2/issues"
+  },
+  "homepage": "https://github.com/EzekielPS/BED-coding-challenge-2#readme"
+}
